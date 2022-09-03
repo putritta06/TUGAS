@@ -14,4 +14,4 @@ Meski tujuan utama X-ray digunakan untuk menelisik kondisi tulang dan sendi, tap
 
 Pemeriksaan x-ray juga diketahui memiliki efek samping pada ibu hamil, terlebih bila x-ray dilakukan pada bagian tubuh yang berdekatan dengan rahim dan janin. Pada masa awal kehamilan, paparan radiasi x-ray dapat meningkatkan risiko terjadinya keguguran dan bayi terlahir cacat. Sementara pemeriksaan x-ray yang dilakukan pada usia kandungan di atas 2 bulan, akan berisiko menyebabkan bayi lahir dengan masalah intelektual. Oleh karena itu, ibu hamil sebaiknya tidak menjalani pemeriksaan x-ray, kecuali dalam kondisi darurat disertai dengan izin dokter.
 
-![Contoh gambar hasil X-Ray](https://www.google.com/search?q=macam+macam+x-ray+medis&sxsrf=ALiCzsYPcyVIZIkNfu5gs2-H52Lju1n5ZQ:1662211119794&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjUxNj62vj5AhU1TWwGHeLEAcYQ_AUoAXoECAEQAw&biw=1366&bih=568&dpr=1#imgrc=ZQg9B9Xesaw9fM)
+![Contoh gambar hasil X-Ray](https://www.google.com/search?q=macam+macam+x-ray+medis&sxsrf=ALiCzsYPcyVIZIkNfu5gs2-H52Lju1n5ZQ:1662211119794&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjUxNj62vj5AhU1TWwGHeLEAcYQ_AUoAXoECAEQAw&biw=1366&bih=568&dpr=1#imgrc=ZQg9B9Xesaw9fM.jpg)
