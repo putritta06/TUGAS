@@ -4,8 +4,6 @@
 
 # X-Ray
 
-<p><div class="text-justify">
-
 Sinar-X merupakan jenis radiasi gelombang elektromagnetik. Prosedur pemeriksaan ini membantu dokter dalam  mendiagnosis, memantau, dan mengobati berbagai kondisi medis. Pencitraan X-ray akan menciptakan gambar bagian dalam tubuh. Gambar-gambar ini akan menunjukkan bagian-bagian tubuh dalam berbagai nuansa hitam dan putih. 
 
 Gambar hitam putih ini dihasilkan karena jaringan-jaringan tubuh menyerap jumlah radiasi yang berbeda. Misalnya, kalsium dalam tubuh menyerap sinar-X paling banyak, sehingga tulang tampak putih. Sementara lemak dan jaringan lunak, seperti darah, kulit, lemak, dan otot, akan berwarna abu-abu pada gambar pemeriksaan. Sementara itu, warna hitam menandakan x-ray mengenai udara atau gas.
