@@ -1,6 +1,8 @@
 ## KELOMPOK 11 Pemrosesan Citra Digital
-## Yuliana [2110131220001]
-## Putri Tari Lestari [2110131120002]
+
+**Yuliana [2110131220001]**
+
+**Putri Tari Lestari [2110131120002]**
 
 # X-Ray
 
