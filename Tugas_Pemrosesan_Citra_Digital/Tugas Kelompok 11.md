@@ -48,4 +48,4 @@ yaitu sebagai berikut:
 
 - Sinar elektron akan menyapu garis horizontal dari kiri ke kanan dan menyebabkan pixel-pixel tadi berpendar dengan intensitas menyesuaikan tegangan yang sudah diatur.
 
-- Ketika sudah sampai ujung, sinar elektron tersebut akan mati dan akan mengulang proses yang sama sehingga menghasilkan gambar yang berbeda setiap detiknya.
+- Ketika sudah sampai ujung, sinar elektron tersebut akan mati dan akan mengulang proses yang sama sehingga menghasilkan gambar yang berbeda setiap detiknya. 
