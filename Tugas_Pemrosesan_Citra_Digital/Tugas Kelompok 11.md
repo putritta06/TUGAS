@@ -6,7 +6,7 @@
 
 # X-Ray
 
-<img src="/ULM.png" width="20%" height="20%">
+![tata](X-ray.jpg)
 
 Sinar-X merupakan jenis radiasi gelombang elektromagnetik. Prosedur pemeriksaan ini membantu dokter dalam  mendiagnosis, memantau, dan mengobati berbagai kondisi medis. Pencitraan X-ray akan menciptakan gambar bagian dalam tubuh. Gambar-gambar ini akan menunjukkan bagian-bagian tubuh dalam berbagai nuansa hitam dan putih. 
 
