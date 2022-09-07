@@ -20,6 +20,8 @@ Pemeriksaan x-ray juga diketahui memiliki efek samping pada ibu hamil, terlebih 
 
 # Proses Terbentuknya Citra Digital Pada X-Ray
 
+![tata](alat.jpg)
+
 Bagaimana cara kerja sinar X-Ray? Sinar X yang bersentuhan dengan jaringan tubuh akan menampilkan hasil berupa gambar. Jadi, sinar X dapat terserap oleh beda padat di dalam tubuh. Selama pemeriksaan X-ray, mesin akan mengirimkan gelombang radiasi elektromagnetik untuk memindai kondisi organ tubuh bagian dalam. 
 
 Disini kami akan membahas: 
