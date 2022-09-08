@@ -22,7 +22,7 @@ Pemeriksaan x-ray juga diketahui memiliki efek samping pada ibu hamil, terlebih 
 
 Adapun selain digunakan untuk keperluan kesehatan, X-Ray juga dapat kita temui dan jumpai di Bandara, yang digunakan sebagai alat untuk memeriksa bawaan penumpang.
 
-<img src="/X-Ray2.jpg" width="50%" height="50%" align="center">
+![yuli](X-Ray2.jpg)
 
 # Proses Terbentuknya Citra Digital Pada X-Ray
 
