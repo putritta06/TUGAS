@@ -1,8 +1,10 @@
-## KELOMPOK 11 Pemrosesan Citra Digital
+## _**KELOMPOK 11**_
 
-**Yuliana [2110131220001]**
+<h1 align="center">Pemrosesan Citra Digital <br> Pada X-Ray</h1>
 
-**Putri Tari Lestari [2110131120002]**
+**- Yuliana [2110131220001]**
+
+**- Putri Tari Lestari [2110131120002]**
 
 # X-Ray
 
@@ -17,6 +19,9 @@ Prosedur X-ray ini dilakukan dengan cepat dan tanpa rasa sakit. Pemeriksaan X-ra
 Meski tujuan utama X-ray digunakan untuk menelisik kondisi tulang dan sendi, tapi terkadang prosedur ini juga dipakai untuk mendeteksi masalah kesehatan lainnya. Contohnya, jaringan lunak, seperti organ internal, memeriksa adanya penyakit atau infeksi paru-paru, kanker payudara, masalah saluran pencernaan, pembesaran jantung, pembuluh darah yang tersumbat, bentuk tulang belakang yang abnormal, masalah ketika menelan, hingga benda yang tak sengaja tertelan ke dalam tubuh.
 
 Pemeriksaan x-ray juga diketahui memiliki efek samping pada ibu hamil, terlebih bila x-ray dilakukan pada bagian tubuh yang berdekatan dengan rahim dan janin. Pada masa awal kehamilan, paparan radiasi x-ray dapat meningkatkan risiko terjadinya keguguran dan bayi terlahir cacat. Sementara pemeriksaan x-ray yang dilakukan pada usia kandungan di atas 2 bulan, akan berisiko menyebabkan bayi lahir dengan masalah intelektual. Oleh karena itu, ibu hamil sebaiknya tidak menjalani pemeriksaan x-ray, kecuali dalam kondisi darurat disertai dengan izin dokter.
+
+Adapun selain digunakan untuk keperluan kesehatan, X-Ray juga dapat kita temui dan jumpai di Bandara, yang digunakan sebagai alat untuk memeriksa bawaan penumpang.
+<img src="/X-Ray1.jpg" width="50%" height="50%" align="center">
 
 # Proses Terbentuknya Citra Digital Pada X-Ray
 
